@@ -14,12 +14,12 @@ const Footer = () => {
         <Typography variant="h5" pb="40px">
           Made with ❤️ by{" "}
           <a
-            href="https://github.com/Technical-Shubham-tech"
+            href="https://github.com/smartman0307"
             target="_blank"
             rel="noreferrer"
             style={{ color: "#FF2625", textDecoration: "none" }}
           >
-            Sanidhya
+            smartman
           </a>
         </Typography>
       </Stack>
